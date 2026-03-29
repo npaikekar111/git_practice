@@ -1,2 +1,2 @@
 # git_practice
-12-09-2023
+"Hello welcome to the world of git and github"
